@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+     background-color: black;
+
+}
+
+h1 {
+    font-size: 60px;
+    font-family:Times New Roman;
+    font-weight: 300;
+    color:rgb(1, 165, 241);
+}
+
+#intro{
+    background-color: rgb(191, 222, 236);
+}
+
+#origami1{
+   background-color:rgb(255, 191, 191);
+}
+
+#origami2{
+  background-color:rgb(255, 191, 191); 
+}
+
+.line {
+    height: 9px;
+    background-color: #3a3a3a;
+    width: 780px;
+    margin: 9px auto;
+}
+h2{
+    font-size:50px;
+    font-family:fantasy;
+    font-weight:300;
+    color:rgb(250, 60, 60);
+}
+h3{
+    font-size:40px;
+    font-family: serif;
+    font-weight:300;
+    color: rgb(2, 97, 141);
+}
